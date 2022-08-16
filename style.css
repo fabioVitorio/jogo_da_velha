@@ -1,0 +1,58 @@
+body {
+    background-image: url(img/pixel1.gif);
+    background-size: 100%;
+}
+
+header {
+    border: 0px solid #fff;
+    color: #fff;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14pt;
+    text-align: left;
+    margin-bottom: 26px;
+}
+
+main {
+    width: 500px;
+    border: 0px solid #fff;
+    background-image: url(img/juego.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0 auto;
+    float: center;
+}
+
+main img {
+    width: 130px;
+    height: 130px;
+}
+
+
+td{
+    border: 0px solid #fff;
+    width: 135px;
+    height: 120px;
+}
+
+button {
+    border-radius: 5px;
+    border: none;
+    background: rgb(250, 70, 70);
+    padding: 7px 14px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 14pt;
+    cursor: pointer;
+}
+
+
+
+button:hover {
+    background: rgb(252, 28, 28);
+}
+
+aside {
+    border: 0px solid #fff;
+    width: 20px;
+    height: 20px;
+}

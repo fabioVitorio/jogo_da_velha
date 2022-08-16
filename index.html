@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Jogo da Velha</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="style.css">
+        <script src="script.js"></script>
+    </head>
+
+    <body>
+        <br/>
+
+        <!-------------------------------------------------------------------->
+        <!-----------------------ESCOLHER MODO DE JOGO------------------------>
+        <!-------------------------------------------------------------------->
+        <header>
+            <tr> 
+                <td><input type="radio" name="cpu" id="cpu"></td>
+                <td><label>Player vs Máquina</label></td>     
+            </tr>            
+        </header>
+        <aside id="imagem"></aside>
+        
+        <!-------------------------------------------------------------------->
+        <!---------------------------TABELA # DO JOGO------------------------->
+        <!-------------------------------------------------------------------->
+        <main>
+            <table align="center">  
+                    <tr align="center">
+                        <td><img src="img/transp.png" alt="img" id="c1" onclick="return checkjg(this.id)"/></td>
+                        <td><img src="img/transp.png" alt="img" id="c2" onclick="return checkjg(this.id)"/></td>
+                        <td><img src="img/transp.png" alt="img" id="c3" onclick="return checkjg(this.id)"/></td>
+                    </tr>
+                    <tr align="center">
+                        <td><img src="img/transp.png" alt="img" id="c4" onclick="return checkjg(this.id)"/></td>
+                        <td><img src="img/transp.png" alt="img" id="c5" onclick="return checkjg(this.id)"/></td>
+                        <td><img src="img/transp.png" alt="img" id="c6" onclick="return checkjg(this.id)"/></td>
+                    </tr>
+                    <tr align="center">
+                        <td><img src="img/transp.png" alt="img" id="c7" onclick="return checkjg(this.id)"/></td>
+                        <td><img src="img/transp.png" alt="img" id="c8" onclick="return checkjg(this.id)"/></td>
+                        <td><img src="img/transp.png" alt="img" id="c9" onclick="return checkjg(this.id)"/></td>
+                    </tr>                
+            </table>      
+        </main>
+        <br/><br/><br/>
+        <section align="center">
+            <button onclick="location.reload()">RESET</button>
+        </section>
+        
+    </body>
+</html>
