@@ -1,5 +1,5 @@
-# Jogo da velha com tema Robô 
-✅Criado no início da minha aprendizagem <br>
+# ⚙️ *Jogo da velha com tema Robô*
+>✅Criado no início da minha aprendizagem <br>
 <div>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabioVitorio&repo=jogo_da_velha"/>
   <a href="https://github.com/fabioVitorio">
