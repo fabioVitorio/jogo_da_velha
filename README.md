@@ -1,14 +1,24 @@
-# ⚙️ *Jogo da velha com tema Robô*
->✅Lógica JavaScript <br>
->✅PvP & PvE<br>
->
-<div>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabioVitorio&repo=jogo_da_velha"/>
-  <a href="https://github.com/fabioVitorio">
-</div>
+### <p align='center'> ![logoMental](https://github.com/fabioVitorio/app/assets/109548564/efd92611-26ee-4789-a991-5395155c7e7f) </p>
+<br>
+<p align='center'> tic-tac-toe game created at the beginning of my apprenticeship
+ <br>
+Player vs Player - Player vs Machine <br></p>
+
+##
+### ⚙️ Installation
+```bash
+~
+```
+##
+#### Functionalities
+- 🕹️ PvP <br>
+- 🦾 PvE <br>
+- 💾 Reset <br>
+ #### Technologies
+- 🟡 JavaScript <br>
+- 🔵 CSS <br>
+- 🟠 HTML <br>
   
-#
- 
-![tela](https://user-images.githubusercontent.com/109548564/184801582-6c00b8ec-059f-49c1-a0f6-0a4371bc3e98.PNG)
+
 ##
 ![win](https://user-images.githubusercontent.com/109548564/184801605-0ffab4f4-5ce6-4317-9227-d3713969958c.PNG)
