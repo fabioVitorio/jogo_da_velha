@@ -1,4 +1,5 @@
-### <p align='center'> ![logoMental](https://github.com/fabioVitorio/app/assets/109548564/efd92611-26ee-4789-a991-5395155c7e7f) </p>
+### <p align='center'> <img src="https://github.com/fabioVitorio/jogo_da_velha/assets/109548564/06fcbf4c-9a46-44e1-b1f3-b61e3d8966c4" width="90"/>
+ </p>
 <br>
 <p align='center'> tic-tac-toe game created at the beginning of my apprenticeship
  <br>
